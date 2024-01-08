@@ -34,4 +34,4 @@ Mayk Brito - Mentor do curso ao qual proporcionou a criação da linha de codigo
 
 
 # Autor
- [<img src="https://avatars.githubusercontent.com/u/150977621?s=400&u=a0ecf6bbd0b9d6de4c3443c76315412338e19521&v=4" width=115><br><sub>João pontes</sub>](https://github.com/jhzinm) 
+ [<img src="https://avatars.githubusercontent.com/u/150977621?s=400&u=a0ecf6bbd0b9d6de4c3443c76315412338e19521&v=4" width=115><br><sub>João Pontes</sub>](https://github.com/jhzinm) 
