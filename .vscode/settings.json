@@ -17,7 +17,7 @@
   // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "In Bed by 7pm",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -33,5 +33,5 @@
       "source": "Git Bash"
     }
   },
-   "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
