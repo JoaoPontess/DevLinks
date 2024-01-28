@@ -6,7 +6,7 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/Rectangle\ 1.svg);
+  --bg-url: url(./assets/bg-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -15,8 +15,8 @@
 }
 
 .light {
-  --text-color: rgb(0, 0, 0);
-  --bg-url: url(./assets/Untitled.svg);
+  --text-color: black;
+  --bg-url: url(./assets/bg-mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -35,12 +35,6 @@ body {
   /*background: color image repeat position/size */
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
-  background-size: auto;
-
-   -webkit-user-select: none;
-   -moz-user-select: none;
-   -o-user-select: none;
-   user-select: none;
 }
 
 body * {
@@ -146,7 +140,7 @@ ul li a {
 
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
-  
+
   /*Webkit = É usado para que funcione em outros navegadores*/
 
   text-decoration: none;
@@ -195,11 +189,11 @@ footer {
 /* media queries */
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./assets/Rectangle\ 1.svg);
+    --bg-url: url(./assets/bg-desktop.jpg);
   }
 
   .light {
-    --bg-url: url(./assets/Untitled.svg);
+    --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
 
